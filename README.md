@@ -5,7 +5,7 @@
 
 Interview Assistant is a program that helps during online interviews by providing suggestions based on the interviewer's questions using ChatGPT.
 
-![Interview Assistant Screenshot](https://ibb.co/C8QLYRC)
+![Interview Assistant Screenshot](https://i.ibb.co/W5fCMm8/screenshot.jpg)
 
 ## Table of Contents
 
@@ -164,7 +164,7 @@ This project is licensed under the [MIT License](LICENSE.md).
 
 Interview Assistant - это программа, которая помогает во время онлайн-интервью, предоставляя подсказки на основе вопросов интервьюера с использованием ChatGPT.
 
-![Скриншот Interview Assistant](https://ibb.co/C8QLYRC)
+![Скриншот Interview Assistant](https://i.ibb.co/W5fCMm8/screenshot.jpg)
 
 ## Содержание
 
