@@ -122,7 +122,7 @@ In the "ChatGPT Suggestions" window, you will see a prompt to help answer the qu
 
 ### Important Notes
 
-- Ensure you can run VPN if [ChatGPT](https://openai.com/) page is not opening in your country
+- Ensure you can run "virtual network" if [ChatGPT](https://openai.com/) page is not opening in your country
 - Ensure you have properly configured virtual audio outputs before using the program.
 - Verify that the correct OpenAI API key is specified in the `.env` file.
 - If you don’t hear the audio or the program isn’t capturing sound, check your system and Zoom audio settings.
