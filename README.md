@@ -65,10 +65,12 @@ Interview Assistant is a program that helps during online interviews by providin
    - Keep your regular microphone selected.
 
 3. **Windows Audio Settings:**
+
 *Check proper installation of vb-audio cable:* 
    - Open Windows Sound settings (right click on speaker icon -> Sound settings)
    - Under "Output" you should see "CABLE Input" (It means program is installed successfully). Now select your regular Output device.
    - Under "Input" you should see "CABLE Output" (It means program is installed successfully). Now select your regular Input device.
+
 *Sharing the Output signal:*
    - Open Windows Sound settings (right-click on the speaker icon -> Sound settings).
    - Scroll down to the "Advanced sound settings" section and click on "Sound control panel".
@@ -97,10 +99,12 @@ Interview Assistant is a program that helps during online interviews by providin
    - Keep your regular microphone selected.
 
 3. **macOS Audio Settings:**
+
 *Check proper installation of vb-audio cable:*
    - Open "System Preferences" -> "Sound."
    - In the "Output" tab, select your regular output device (headphones or speakers).
    - In the "Input" tab, make sure your regular microphone is selected.
+
 *Sharing the Output signal:*
    - Open the "Audio MIDI Setup" app (located in Applications -> Utilities).
    - In the menu, select "Show Audio Devices."
@@ -242,10 +246,12 @@ Interview Assistant - это программа, которая помогает
    - Оставьте ваш обычный микрофон в настройках микрофона.
 
 3. **Настройка Windows для прослушивания:**
+
 *Проверьте правильность установки кабеля vb-audio:*
    - Откройте настройки звука Windows (щелкните правой кнопкой мыши по значку динамика -> Настройки звука)
    - В разделе «Вывод» вы должны увидеть «CABLE Input» (это означает, что программа успешно установлена). Теперь выберите свое обычное устройство вывода.
    - В разделе «Ввод» вы должны увидеть «CABLE Output» (это означает, что программа успешно установлена). Теперь выберите свое обычное устройство ввода.
+
 *Обмен сигналом Вывода:*
    - Откройте настройки звука Windows (щелкните правой кнопкой мыши по значку динамика -> Настройки звука).
    - Прокрутите вниз до раздела «Дополнительные параметры звука» и нажмите «Дополнительные параметры звука».
@@ -274,11 +280,13 @@ Interview Assistant - это программа, которая помогает
    - Оставьте ваш обычный микрофон в настройках микрофона.
 
 3. **Настройка macOS для прослушивания:**
+
 *Проверьте правильность установки кабеля vb-audio:*
    - Откройте "Системные настройки" -> "Звук".
    - Перейдите на вкладку "Выход" и выберите ваше обычное устройство вывода звука (наушники или динамики).
    - Перейдите на вкладку "Вход".
    - Убедитесь, что выбран ваш обычный микрофон.
+   
 *Обмен сигналом Вывода:*
    - Откройте приложение "Аудио MIDI Setup" (находится в папке "Программы" -> "Утилиты").
    - В меню "Окно" выберите "Показать окно аудиоустройств".
