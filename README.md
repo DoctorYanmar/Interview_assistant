@@ -66,7 +66,7 @@ Interview Assistant is a program that helps during online interviews by providin
 
 3. **Windows Audio Settings:**
 
-*Check proper installation of vb-audio cable:* 
+*Check proper installation of VB-Audio Virtual Cable:* 
    - Open Windows Sound settings (right click on speaker icon -> Sound settings)
    - Under "Output" you should see "CABLE Input" (It means program is installed successfully). Now select your regular Output device.
    - Under "Input" you should see "CABLE Output" (It means program is installed successfully). Now select your regular Input device.
@@ -247,7 +247,7 @@ Interview Assistant - это программа, которая помогает
 
 3. **Настройка Windows для прослушивания:**
 
-*Проверьте правильность установки кабеля vb-audio:*
+*Проверьте правильность установки VB-Audio Virtual Cable:*
    - Откройте настройки звука Windows (щелкните правой кнопкой мыши по значку динамика -> Настройки звука)
    - В разделе «Вывод» вы должны увидеть «CABLE Input» (это означает, что программа успешно установлена). Теперь выберите свое обычное устройство вывода.
    - В разделе «Ввод» вы должны увидеть «CABLE Output» (это означает, что программа успешно установлена). Теперь выберите свое обычное устройство ввода.
