@@ -131,7 +131,7 @@ Interview Assistant is a program that helps during online interviews by providin
 
 ## Support
 
-If you encounter any problems or have questions, please [create an issue](link_to_your_repository/issues) in the project repository on GitHub.
+If you encounter any problems or have questions, please [create an issue](https://github.com/DoctorYanmar/Interview_assistant/issues) in the project repository on GitHub.
 
 ## Obtaining OpenAI API Key
 
@@ -288,7 +288,7 @@ Interview Assistant - это программа, которая помогает
 
 ## Поддержка
 
-Если у вас возникли проблемы или вопросы, пожалуйста, [создайте issue](ссылка_на_ваш_репозиторий/issues) в репозитории проекта на GitHub.
+Если у вас возникли проблемы или вопросы, пожалуйста, [создайте issue](https://github.com/DoctorYanmar/Interview_assistant/issues) в репозитории проекта на GitHub.
 
 ## Получение API ключа OpenAI
 
