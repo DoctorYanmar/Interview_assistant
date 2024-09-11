@@ -22,7 +22,7 @@ Interview Assistant is a program that helps during online interviews by providin
 
 ### Windows
 
-1. Download and extract the program archive. [Release 1.0.0 ver](https://github.com/DoctorYanmar/Interview_assistant/releases/download/Release/Interview_assistant_portable_v1.0.0.zip)
+1. Download and extract the program archive. [Release 1.0.0 ver](https://github.com/DoctorYanmar/Interview_assistant/releases/tag/Release)
 2. Run `setup.bat` by double-clicking it.
 3. Follow the on-screen instructions. The script will install Python 3.10 (if not already installed), create a virtual environment, and install the necessary dependencies.
 4. After installation, a browser window will open with the VB-Audio Virtual Cable website. Download and install the program.
@@ -180,7 +180,7 @@ Interview Assistant - это программа, которая помогает
 
 ### Windows
 
-1. Скачайте и распакуйте архив с программой. [Release 1.0.0 ver](https://github.com/DoctorYanmar/Interview_assistant/releases/download/Release/Interview_assistant_portable_v1.0.0.zip)
+1. Скачайте и распакуйте архив с программой. [Release 1.0.0 ver](https://github.com/DoctorYanmar/Interview_assistant/releases/tag/Release)
 2. Запустите `setup.bat`, дважды кликнув на него.
 3. Следуйте инструкциям на экране. Скрипт установит Python 3.10 (если его нет), создаст виртуальное окружение и установит необходимые зависимости.
 4. После завершения установки откроется браузер с сайтом VB-Audio Virtual Cable. Скачайте и установите эту программу.
