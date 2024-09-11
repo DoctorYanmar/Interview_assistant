@@ -3,7 +3,7 @@
 <details>
 <summary>English</summary>
 
-Interview Assistant is a program that helps during online interviews by providing suggestions based on the interviewer's questions using ChatGPT.
+Interview Assistant is a program that helps during online interviews by providing suggestions based on the interviewer's questions using ChatGPT (OpenAI API).
 
 ![Interview Assistant Screenshot](https://i.ibb.co/9pyML37/screenshot.jpg)
 
@@ -117,7 +117,7 @@ Interview Assistant is a program that helps during online interviews by providin
 
 ## Important Notes
 
-- Ensure you can access https://openai.com/ in your country.
+- Ensure you can access https://openai.com/ in your country, if not, then you cannot send/receive requests from OpenAI API. You need to find solution
 - Verify that virtual audio outputs are correctly configured.
 - Check that the correct OpenAI API key is specified in the `.env` file.
 - If audio issues occur, check your system and Zoom audio settings.
@@ -275,7 +275,7 @@ Interview Assistant - это программа, которая помогает
 
 ## Важные замечания
 
-- Убедитесь, что вы можете открыть https://openai.com/ в вашей стране.
+- Убедитесь, что вы можете открыть https://openai.com/ в вашей стране, если нет, то вы не cможете отправлять/получать запросы от OpenAI API. Вам нужно найти решение
 - Проверьте правильность настройки виртуальных аудио выходов.
 - Убедитесь, что в файле `.env` указан правильный API ключ OpenAI.
 - Проверьте настройки звука в системе и в Zoom при проблемах с аудио.
