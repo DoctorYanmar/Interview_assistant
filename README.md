@@ -127,7 +127,6 @@ Interview Assistant is a program that helps during online interviews by providin
 
 - If the program doesn't start, ensure all installation steps were followed correctly.
 - For audio capture issues, check virtual audio output settings.
-- To improve speech recognition, speak clearly and slowly.
 - If ChatGPT suggestions are irrelevant, try changing the model or modifying the prompt.
 
 ## Support
@@ -285,7 +284,6 @@ Interview Assistant - это программа, которая помогает
 
 - Если программа не запускается, проверьте правильность установки.
 - При проблемах с захватом звука, проверьте настройки виртуальных аудио выходов.
-- Для улучшения распознавания речи, говорите четче и медленнее.
 - Если ChatGPT дает нерелевантные подсказки, попробуйте изменить модель или промпт.
 
 ## Поддержка
