@@ -65,9 +65,19 @@ Interview Assistant is a program that helps during online interviews by providin
    - Keep your regular microphone selected.
 
 3. **Windows Audio Settings:**
-   - Open Sound Control Panel.
-   - Set up "Listen to this device" for "CABLE Output".
-   - Select your headphones or speakers as the playback device.
+    *Check proper installation of vb-audio cable:*
+   1. Open Windows Sound settings (right click on speaker icon -> Sound settings)
+   2. Under "Output" you should see "CABLE Input" (It means program is installed successfully). Now select your regular Output device.
+   3. Under "Input" you should see "CABLE Output" (It means program is installed successfully). Now select your regular Input device.
+    *Sharing the Output signal:*
+   1. Open Windows Sound settings (right-click on the speaker icon -> Sound settings).
+   2. Scroll down to the "Advanced sound settings" section and click on "Sound control panel".
+   3. Go to the "Recording" tab.
+   4. Find "CABLE Output" in the list and double-click on it.
+   5. Go to the "Listen" tab.
+   6. Check the "Listen to this device" box.
+   7. In the "Play through this device" drop-down list, select your headphones or speakers through which you want to hear the sound (Your usual way of listening to sound).
+   8. Click "Apply", then "OK".
 
 4. **Test in Zoom:**
    - In Zoom audio settings, test the speaker.
@@ -87,8 +97,17 @@ Interview Assistant is a program that helps during online interviews by providin
    - Keep your regular microphone selected.
 
 3. **macOS Audio Settings:**
-   - Set your regular output device in System Preferences.
-   - Configure "CABLE Output" in Audio MIDI Setup.
+    *Check proper installation of vb-audio cable:*
+   1. Open "System Preferences" -> "Sound."
+   2. In the "Output" tab, select your regular output device (headphones or speakers).
+   3. In the "Input" tab, make sure your regular microphone is selected.
+    *Sharing the Output signal:*
+   1. Open the "Audio MIDI Setup" app (located in Applications -> Utilities).
+   2. In the menu, select "Show Audio Devices."
+   3. Find "CABLE Output" in the list of devices and select it.
+   4. Click the gear icon at the bottom left of the window.
+   5. Choose "Use This Device for Sound Output."
+   6. In the popup, select your regular sound output device.
 
 4. **Test in Zoom:**
    - In Zoom settings, test the speaker and microphone.
@@ -223,8 +242,19 @@ Interview Assistant - это программа, которая помогает
    - Оставьте ваш обычный микрофон в настройках микрофона.
 
 3. **Настройка Windows для прослушивания:**
-   - Откройте панель управления звуком.
-   - Настройте прослушивание "CABLE Output" через ваши наушники или динамики.
+    *Проверьте правильность установки кабеля vb-audio:*
+   1. Откройте настройки звука Windows (щелкните правой кнопкой мыши по значку динамика -> Настройки звука)
+   2. В разделе «Вывод» вы должны увидеть «CABLE Input» (это означает, что программа успешно установлена). Теперь выберите свое обычное устройство вывода.
+   3. В разделе «Ввод» вы должны увидеть «CABLE Output» (это означает, что программа успешно установлена). Теперь выберите свое обычное устройство ввода.
+    *Обмен сигналом Вывода:*
+   1. Откройте настройки звука Windows (щелкните правой кнопкой мыши по значку динамика -> Настройки звука).
+   2. Прокрутите вниз до раздела «Дополнительные параметры звука» и нажмите «Дополнительные параметры звука».
+   3. Перейдите на вкладку «Запись».
+   4. Найдите в списке «CABLE Output» и дважды щелкните по нему.
+   5. Перейдите на вкладку «Прослушивать».
+   6. Установите флажок «Прослушивать с данного устройства».
+   7. В раскрывающемся списке «Воспроизводить с данного устройства» выберите наушники или динамики, через которые вы хотите слышать звук(Ваш обычный способ прослушивания звука). 
+   8. Нажмите «Применить», затем «ОК».
 
 4. **Проверка в Zoom:**
    - В настройках звука Zoom проверьте динамик.
@@ -244,8 +274,19 @@ Interview Assistant - это программа, которая помогает
    - Оставьте ваш обычный микрофон в настройках микрофона.
 
 3. **Настройка macOS для прослушивания:**
-   - Настройте вывод звука через ваше обычное устройство.
-   - Настройте прослушивание "CABLE Output" через приложение "Аудио MIDI Setup".
+    *Проверьте правильность установки кабеля vb-audio:*
+   1. Откройте "Системные настройки" -> "Звук".
+   2. Перейдите на вкладку "Выход" и выберите ваше обычное устройство вывода звука (наушники или динамики).
+   3. Перейдите на вкладку "Вход".
+   4. Убедитесь, что выбран ваш обычный микрофон.
+    *Обмен сигналом Вывода:*
+   1. Откройте приложение "Аудио MIDI Setup" (находится в папке "Программы" -> "Утилиты").
+   2. В меню "Окно" выберите "Показать окно аудиоустройств".
+   3. Найдите в списке устройств "CABLE Output" и выберите его.
+   4. Нажмите на кнопку с изображением шестеренки в нижнем левом углу окна.
+   5. Выберите "Использовать это устройство для вывода звука".
+   6. В появившемся диалоговом окне выберите ваше обычное устройство вывода звука.
+
 
 4. **Проверка в Zoom:**
    - В настройках Zoom проверьте динамик и микрофон.
