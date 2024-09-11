@@ -20,6 +20,8 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
+The creator of this software bears no responsibility for any misuse of the program. Users are required to use the software only for its intended purpose.
+
 ## Third-Party Licenses
 
 This project uses third-party libraries or other resources that may be
